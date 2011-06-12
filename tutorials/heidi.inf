@@ -1,0 +1,32 @@
+!% -SD
+
+!%==================================================
+Constant Story "Heidi";
+Constant Headline
+    "^ A simple Inform example
+    ^by Roger Firth and Sonia Kesserich.^";
+
+Include "Parser";
+Include "Verblib";
+
+!%==================================================
+! The game objects
+
+!%==================================================
+! Entry point routines
+
+[ Initialise; ];
+
+!%==================================================
+! Standard and extended grammar
+
+Include "Grammar";
+
+!%==================================================
+
+
+
+
+
+
+
